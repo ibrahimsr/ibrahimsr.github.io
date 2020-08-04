@@ -281,14 +281,14 @@ ul.cd-hero-slider {
 }
 
 .second-service .icon {
-  background-image: url(../img/second-service-main.png);
+  background-image: url(../img/iconBongkar.png);
   height: 32px;
-  width: 22px;
+  width: 32px;
   display: inline-block;
 }
 
 .second-service:hover .icon {
-  background-image: url(../img/second-service-white.png);
+  background-image: url(../img/iconBongkar1.png);
 }
 
 .third-service .icon {
@@ -303,14 +303,14 @@ ul.cd-hero-slider {
 }
 
 .fourth-service .icon {
-  background-image: url(../img/fourth-service-main.png);
+  background-image: url(../img/iconPajak.png);
   height: 32px;
   width: 32px;
   display: inline-block;
 }
 
 .fourth-service:hover .icon {
-  background-image: url(../img/fourth-service-white.png);
+  background-image: url(../img/iconPajak1.png);
 }
 
 .five-service .icon {
@@ -728,14 +728,14 @@ footer ul li a {
   line-height: 36px;
   text-align: center;
   display: inline-block;
-  background-color: #a2cf8d;
-  color: #202628;
+  background-color: #2196f3;
+  color: #fff;
   border-radius: 50%;
 }
 
 footer ul li a:hover {
-  color: #202628;
-  background-color: #5c9d7d;
+  color: #fff;
+  background-color: #1565c0;
   transition: all 0.5s;
 }
 
