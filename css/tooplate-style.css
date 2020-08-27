@@ -124,16 +124,16 @@ p {
   margin-top: 22px;
   background-image: url(../img/drb_putih.png);
   display: inline-block;
-  width: 125px;
-  height: 32px;
+  width: 122px;
+  height: 37px;
   background-repeat: no-repeat;
 }
 .header.active .navbar-brand .logo {
   margin-top: 22px;
   background-image: url(../img/drb_hitam.png);
   display: inline-block;
-  width: 125px;
-  height: 32px;
+  width: 122px;
+  height: 37px;
   background-repeat: no-repeat;
 }
 #main-nav {
